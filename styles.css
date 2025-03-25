@@ -1,0 +1,52 @@
+.heading {
+    text-shadow: 2px 2px 5px rgb(253, 253, 253);
+    color: rgb(37, 195, 206)
+}
+
+.head {
+    background-color: black;
+    margin: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.profile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 500px;
+
+}
+
+.name {
+
+    color: rgb(10, 6, 22);
+    text-align: center;
+}
+
+.imgb {
+    background-color: aquamarine;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.quotes {
+    background-color: rgb(226, 13, 66);
+}
+
+.main-quote {
+    text-align: center;
+    color: rgb(14, 10, 247);
+}
+
+.INTRODUCTION {
+    background-color: rgb(38, 120, 226);
+    padding-left: 90px;
+}
+
+.main-intro {
+    text-align: center;
+
+}
